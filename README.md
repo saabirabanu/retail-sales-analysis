@@ -1,6 +1,5 @@
 # retail-sales-analysis
 Retail Sales Data Analysis using SQL, Excel &amp; Power BI | Time Series &amp; Regional Insights
-# Retail Sales Analysis
 
 ## Project Overview
 Analyzed large-scale retail sales data to identify trends, improve decision-making, and optimize business performance.
