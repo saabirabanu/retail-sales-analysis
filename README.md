@@ -1,29 +1,35 @@
 # retail-sales-analysis
-Retail Sales Data Analysis using SQL, Excel &amp; Power BI | Time Series &amp; Regional Insights
+End-to-end retail data analysis project (500K+ records) using Excel, SQL, and Tableau to derive insights on sales trends, customer segmentation, and revenue optimization.
 
 ## Project Overview
-Analyzed large-scale retail sales data to identify trends, improve decision-making, and optimize business performance.
+## Retail Sales Analysis (Capstone Project)
 
-## Tools Used
-- Excel (Data Cleaning)
-- SQL (Data Validation & Querying)
-- Power BI (Dashboard & Visualization)
+### Objective  
+Analyze large-scale retail data to uncover trends, improve decision-making, and optimize revenue.
 
-## Key Analysis
-- Time Series Analysis (Monthly, Weekly Trends)
-- Geographical Analysis (Country-wise Performance)
-- Sales & Revenue Insights
+### Dataset  
+- ~500,000 records  
+- Time period: 2009–2011  
+- Fields: Invoice, Product, Quantity, Price, Customer ID, Country  
 
-## Key Insights
-- Highest sales observed in **UK during July**
-- Peak performance in **Week 21**
-- Strong sales on **Thursdays (Evening)**
-- Identified underperforming regions for strategy improvement
+### Tools Used  
+- Excel (Data Cleaning & Preprocessing)  
+- SQL (Data Validation & KPI Analysis)  
+- Tableau (Dashboard & Visualization)  
 
-## Business Impact
-- Helped identify high-performing markets
-- Suggested data-driven strategies for low-performing regions
-- Improved decision-making through visualization
+### Key Steps  
+- Cleaned missing and inconsistent data  
+- Created derived columns (Month, Year, Profit, Margin)  
+- Built KPIs: Sales, Orders, AOV, Profit  
+- Performed time series & geographical analysis  
 
-## Dataset Size
-- Large dataset (~500K+ rows processed)
+### Key Insights  
+- Peak sales: July, Week 21, Thursdays  
+- UK contributed highest revenue  
+- Identified top customers & high-margin products  
+
+### Business Recommendations  
+- Increase stock for peak periods  
+- Focus on high-margin products  
+- Expand in emerging markets  
+- Implement customer retention strategies
